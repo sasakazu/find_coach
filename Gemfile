@@ -29,6 +29,8 @@ gem 'pg', group: :production
 gem 'bootstrap-sass',       '3.2.0.0'
 gem 'bcrypt',         '3.1.11'
 gem 'puma'
+gem 'will_paginate',           '3.1.0'
+gem 'bootstrap-will_paginate', '0.0.10'
 
 
 
